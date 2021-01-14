@@ -6,8 +6,7 @@ package no.ntnu.idata2001.booklibrary;
  * @Sebastian_Nilsen 
  * @version 0.1
  */
-public class Book
-{
+public class Book {
     private String title;
     private String author;
     private String publisher;
