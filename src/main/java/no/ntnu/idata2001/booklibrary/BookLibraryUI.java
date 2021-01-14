@@ -10,8 +10,7 @@ import java.util.Scanner;
      * @author (your name)
      * @version (a version number or a date)
      */
-    public class BookLibraryUI
-    {
+    public class BookLibraryUI{
         private final BookRegister books;
         private static final int ADD_BOOK = 1;
         private static final int LIST_ALL_BOOKS = 2;
